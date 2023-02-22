@@ -1,0 +1,10 @@
+[user]
+	email = fernandezfrancisco2195@gmail.com
+	name = fernandezfran
+    password = __token___
+[core]
+	editor = vim
+[diff]
+	tool = vimdiff
+[credential]
+	helper = store
